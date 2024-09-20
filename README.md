@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Arjun8384
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently learning javascript, python development, web development
 - 💞️ I’m looking to collaborate on amazon
-- 📫 How to reach me on ig @arjun.__3029 
+- 📫 How to reach me on ig @_arjun_singh_30
 
 <--
 Arjun8384/Arjun8384 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
